@@ -16,7 +16,7 @@ The competition challenged the community to demonstrate how to use Gemma to acco
 
 ## AIcrowd
 
-1. [HackAPrompt - Trick Large Language Models](./Aicrowd/HackAPrompt/)
+1. [HackAPrompt - Trick Large Language Models](./AIcrowd/HackAPrompt/)
 
 HackAPrompt was a prompt hacking competition aimed at outsmarting large language models (e.g. ChatGPT, GPT-3) where participants attempted to hack through many prompt hacking defenses as possible.\
 I partecipated with a colleague, securing the 32nd place out of 476 teams (top 7%).
