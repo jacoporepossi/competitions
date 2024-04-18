@@ -1,6 +1,6 @@
 # LLM CTF @ SaTML 2024
 
-[This team competition](https://ctf.spylab.ai/), was divided into phases:
+[This team competition](https://ctf.spylab.ai/) was divided into two main phases:
 - the Defense phase for submitting defenses. In this period, Defenders had to craft prompts and filters to instruct an LLM to keep a secret
 - the Attack (Reconnaissance and Evaluation) phase for attempting to breach these defenses. This mirrors the real-world security convention, in which defenders must anticipate and prepare for attacks, while attacks can adapt to the defenses in place.
 
