@@ -2,18 +2,18 @@
 
 Welcome to this repository, which aims to be a collection of various projects and code implementations stemming from my engagement in competitions across different platforms.
 
-1. AI Village Capture the Flag @ DEFCON31
+1. [AI Village Capture the Flag @ DEFCON31](https://www.kaggle.com/competitions/ai-village-capture-the-flag-defcon31)
 
 27 hand-crafted machine learning security challenges to find flags, solve puzzles, and gain hands-on experience with concepts of AI security and safety.\
 I was able to secure the 76th place out of 1360 people competing (top 6%), [on Kaggle](https://www.kaggle.com/code/jacoporepossi/defcon31-ctf-top-6-22-flags-solutions) I published my solutions
 
-2. AI Assistants for Data Tasks with Gemma
+2. [AI Assistants for Data Tasks with Gemma](https://www.kaggle.com/competitions/data-assistants-with-gemma)
 
 Google launched Gemma in late February 2024, a new family of open LLMs built from the same research and technology used to create their Gemini models.
 The competition challenged the community to demonstrate how to use Gemma to accomplish one or more data science oriented tasks and I chose text summarization.\
 My final choice focused on the complex world of text summarization and my notebook can be found on [Kaggle](https://www.kaggle.com/code/jacoporepossi/text-summarization-with-gemma).
 
-3. [HackAPrompt - Trick Large Language Models](./AIcrowd/HackAPrompt/)
+3. [HackAPrompt - Trick Large Language Models](https://www.hackaprompt.com/track/hackaprompt_1.0_competition)
 
 HackAPrompt was a prompt hacking competition aimed at outsmarting Large Language Models (e.g. LLAMA, GPT-3.5) where participants attempted to hack through many prompt hacking defenses as possible.\
 I partecipated with a colleague, securing the 32nd place out of 476 teams (top 7%).\
